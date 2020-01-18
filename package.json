@@ -1,0 +1,26 @@
+{
+  "name": "devmap",
+  "version": "1.0.0",
+  "description": "Projeto da 10a Semana Omnistack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/devMap.git"
+  },
+  "keywords": [
+    "devRadar",
+    "devmap",
+    "omnistack",
+    "semana",
+    "omnistack"
+  ],
+  "author": "Rafael Gerônimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/devMap/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/devMap#readme"
+}
